@@ -4,7 +4,6 @@
 </a>
 
 # Overview
-Smart Pot
 - Fully Customiseable
 - Waters Automatically (According to Requirement)
 - Displays Important Parameters
