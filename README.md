@@ -19,6 +19,11 @@
 - Connecting wires
 
 # Circuit Diagram
+> [!NOTE]
+> Arduino UNO: A4(SDA), A5(SCL)
+> Arduino MEGA 2560: 20(SDA), 21(SCL)
+> Arduino LEONARDO:   2(SDA),  3(SCL)
+
 <a>
 <img src=""/>
 <a/>
