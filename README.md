@@ -19,14 +19,16 @@
 - Connecting wires
 
 # Circuit Diagram
-> [!NOTE]
+> [!IMPORTANT]
 > Arduino UNO: A4(SDA), A5(SCL)
+
+> [!IMPORTANT]
 > Arduino MEGA 2560: 20(SDA), 21(SCL)
+
+> [!IMPORTANT] 
 > Arduino LEONARDO:   2(SDA),  3(SCL)
 
-<a>
-<img src=""/>
-<a/>
+[![Cirkit Designer Project Preview](circuit.png)](https://app.cirkitdesigner.com/project/f46325be-b6d5-4208-ba56-927e1e49a3c9?view=interactive_preview)
 
 
 ### WORK IN PROGRESS
