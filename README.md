@@ -1,4 +1,4 @@
-# 🌱 Smart Pot - V1
+# 🌱 Smart Pot
 <a>
   <img src="https://github.com/elmarcsalvador/smart-pot/assets/72746950/6bc85083-fb88-4612-8a66-0590adece316" alt="banner" />
 </a>
@@ -7,10 +7,7 @@
   <img src="https://img.shields.io/github/stars/elmarcsalvador/smart-pot?style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/elmarcsalvador/smart-pot?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/elmarcsalvador/smart-pot?style=for-the-badge" />
-  <img src="https://img.shields.io/github/v/release/elmarcsalvador/smart-pot?style=for-the-badge" />
-  <img src="https://img.shields.io/github/downloads/elmarcsalvador/smart-pot/total?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20with-Arduino-blue?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/Status-WIP-yellow?style=for-the-badge" />
 </p>
 
 ---
